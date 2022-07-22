@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hw2.2</string>
+
+    <string-array name ="mobile_dev">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>Swift</item>
+        <item>React-native</item>
+        <item>Xamarin</item>
+        <item>Flutter</item>
+
+
+    </string-array>
+
+    <string-array name="description">
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+        <item>This is a random description</item>
+    </string-array>
+</resources>

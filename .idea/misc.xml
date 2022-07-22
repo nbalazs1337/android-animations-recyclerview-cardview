@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Homeworks/homework-2.2/app/src/main/res/layout/activity_items.xml" value="0.2" />
+        <entry key="..\:/Homeworks/homework-2.2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/drawable-anydpi/delete.xml" value="0.124" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/drawable/delete_background.xml" value="0.2595" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/drawable/delete_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/drawable/ic_launcher_background.xml" value="0.229" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/layout/activity_items.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/layout/activity_main.xml" value="0.2112676056338028" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/layout/test.xml" value="0.264" />
+        <entry key="..\:/Users/bnegrea/AndroidStudioProjects/Hw22/app/src/main/res/mipmap-anydpi-v26/delete.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
